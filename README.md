@@ -1,6 +1,6 @@
 # 🧩 Sudoku Solver
 
-![Sudoku Solver Banner](./screenshots/sudoku-banner.svg)
+![Sudoku Solver Banner](./Downloads/sudoku-banner.svg)
 
 A Python-based Sudoku Solver with a clean, user-friendly GUI built using **Tkinter**. Enter any valid 9x9 puzzle and watch it get solved instantly using a backtracking algorithm.
 
@@ -86,7 +86,7 @@ This guarantees a correct solution for any valid Sudoku puzzle, exploring only p
 
 | Puzzle Input | Solved Puzzle |
 |---|---|
-| ![Empty Grid](./downloads/empty-grid.png) | ![Solved Puzzle](./downloads/solved-puzzle.png) |
+| ![Empty Grid](./Downloads/empty-grid.svg) | ![Solved Puzzle](./Downloads/solved-puzzle.svg) |
 
 > 📌 These are illustrative mockups. Swap them out for real screenshots of your app anytime — just drop your own images into the `screenshots/` folder with the same filenames (or update the paths above).
 
