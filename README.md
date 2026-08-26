@@ -1,6 +1,6 @@
 # 🧩 Sudoku Solver
 
-<img src="./screenshots/sudoku-banner.svg" alt="Sudoku Solver Banner" width="800">
+<img src="./screenshots/sudoku-banner.svg" alt="Sudoku Solver Banner" width="800"> 
 
 A Python-based Sudoku Solver with a clean, user-friendly GUI built using **Tkinter**. Enter any valid 9x9 puzzle and watch it get solved instantly using a backtracking algorithm.
 
