@@ -84,11 +84,11 @@ This guarantees a correct solution for any valid Sudoku puzzle, exploring only p
 
 ## 🖼️ Screenshots
 
-| Empty Grid | Solved Puzzle |
+| Puzzle Input | Solved Puzzle |
 |---|---|
-| ![Empty Grid](./screenshots/empty-grid.png) | ![Solved Puzzle](./screenshots/solved-puzzle.png) |
+| ![Empty Grid](./screenshots/empty-grid.svg) | ![Solved Puzzle](./screenshots/solved-puzzle.svg) |
 
-> 📌 Add your own screenshots to a `screenshots/` folder in the repo root (e.g. `empty-grid.png`, `solved-puzzle.png`) — GitHub will render them automatically.
+> 📌 These are illustrative mockups. Swap them out for real screenshots of your app anytime — just drop your own images into the `screenshots/` folder with the same filenames (or update the paths above).
 
 ---
 
