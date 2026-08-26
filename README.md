@@ -92,10 +92,6 @@ This guarantees a correct solution for any valid Sudoku puzzle, exploring only p
 
 <img src="./screenshots/solved-puzzle.png" alt="Solved Puzzle" width="500">
 
-> 📌 These are illustrative mockups. Swap them out for real screenshots of your app anytime — just drop your own images into the `screenshots/` folder with the same filenames (or update the paths above).
-
----
-
 ## 🔮 Future Improvements
 
 - [ ] Add a difficulty-based puzzle generator
