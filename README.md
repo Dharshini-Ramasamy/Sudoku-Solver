@@ -1,7 +1,5 @@
 # 🧩 Sudoku Solver
 
-<img src="./screenshots/sudoku-banner.svg" alt="Sudoku Solver Banner" width="800"> 
-
 A Python-based Sudoku Solver with a clean, user-friendly GUI built using **Tkinter**. Enter any valid 9x9 puzzle and watch it get solved instantly using a backtracking algorithm.
 
 ![Python](https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,11 +57,12 @@ python "sudoku solver.py"
 
 ## 🎮 How to Use
 
-1. **Launch** the app by running `sudoku solver.py`
-2. **Enter** the known Sudoku numbers into the grid — leave empty cells blank
-3. Click **Solve** to instantly fill in the completed puzzle
-4. Click **Clear** to reset the grid and start a new puzzle
-5. Click **Exit** to close the application
+1. **Launch** the app by running `sudoku solver.py` — you'll land on the welcome screen
+2. Click **Start Sudoku Solver** to open the puzzle grid
+3. **Enter** the known Sudoku numbers into the grid — leave empty cells blank
+4. Click **Solve** to instantly fill in the completed puzzle
+5. Click **Clear** to reset the grid and start a new puzzle
+6. Click **Exit** to close the application
 
 ---
 
@@ -84,13 +83,19 @@ This guarantees a correct solution for any valid Sudoku puzzle, exploring only p
 
 ## 🖼️ Screenshots
 
+### 👋 Welcome Screen
+
+<img src="./screenshots/welcome-screen.png" alt="Sudoku Solver Welcome Screen" width="600">
+
 ### 🔲 Puzzle Input
 
-<img src="./screenshots/empty-grid.png" alt="Empty Grid" width="500">
+<img src="./screenshots/empty-grid(1).png" alt="Sudoku Grid Input" width="600">
 
 ### ✅ Solved Puzzle
 
-<img src="./screenshots/solved-puzzle.png" alt="Solved Puzzle" width="500">
+<img src="./screenshots/solved-puzzle(1).png" alt="Solved Sudoku Puzzle" width="600">
+
+---
 
 ## 🔮 Future Improvements
 
@@ -108,3 +113,4 @@ This project is open-source and available under the **MIT License**.
 ---
 
 <p align="center">Made with ❤️ and a lot of backtracking 🧩</p>
+
