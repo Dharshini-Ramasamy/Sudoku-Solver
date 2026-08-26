@@ -86,7 +86,7 @@ This guarantees a correct solution for any valid Sudoku puzzle, exploring only p
 
 | Puzzle Input | Solved Puzzle |
 |---|---|
-| ![Empty Grid](./Downloads/empty-grid.svg) | ![Solved Puzzle](./Downloads/solved-puzzle.svg) |
+| ![Empty Grid](./empty-grid.svg) | ![Solved Puzzle](./solved-puzzle.svg) |
 
 > 📌 These are illustrative mockups. Swap them out for real screenshots of your app anytime — just drop your own images into the `screenshots/` folder with the same filenames (or update the paths above).
 
