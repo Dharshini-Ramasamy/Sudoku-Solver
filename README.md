@@ -1,5 +1,7 @@
 # 🧩 Sudoku Solver
 
+<img src="./screenshots/sudoku-banner.svg" alt="Sudoku Solver Banner" width="800">
+
 A Python-based Sudoku Solver with a clean, user-friendly GUI built using **Tkinter**. Enter any valid 9x9 puzzle and watch it get solved instantly using a backtracking algorithm.
 
 ![Python](https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -89,11 +91,11 @@ This guarantees a correct solution for any valid Sudoku puzzle, exploring only p
 
 ### 🔲 Puzzle Input
 
-<img src="./screenshots/empty-grid(1).png" alt="Sudoku Grid Input" width="600">
+<img src="./screenshots/empty-grid (1).png" alt="Sudoku Grid Input" width="600">
 
 ### ✅ Solved Puzzle
 
-<img src="./screenshots/solved-puzzle(1).png" alt="Solved Sudoku Puzzle" width="600">
+<img src="./screenshots/solved-puzzle (1).png" alt="Solved Sudoku Puzzle" width="600">
 
 ---
 
